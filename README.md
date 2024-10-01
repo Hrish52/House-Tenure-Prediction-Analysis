@@ -36,6 +36,7 @@ Throughout this analysis, the housing data for Washington state was obtained fro
 | Linear         | 77.27%         | 77.61%         |
 | Polynomial         | 75.28%         | 77.1%         |
 | Radial Basis Function (RBF) | 80.8%  | 80.59%  |
+
 The RBF kernel outperformed the other kernels, making it the preferred model for predicting house tenure.
 
 # Technologies
